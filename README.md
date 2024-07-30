@@ -1,1 +1,1 @@
-A palavra **ROLA** deve ser destacada.
+A palavra **japa** deve ser destacada.
